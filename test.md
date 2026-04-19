@@ -1,9 +1,10 @@
-# test
+ # 1. TEST 시작
 첫번째 문구
 
-## test bash
+  ## test bash
+  
 ```sh
 $ git init
 ````
 
-# 2. TEST
+ # 2. TEST 추가
